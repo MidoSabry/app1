@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
 
       home: Scaffold(
         appBar: AppBar(
-          title: Text('First App',textAlign: TextAlign.center,),
+          title: Text('First App',),
           backgroundColor: Colors.green,
           centerTitle: true,
 
